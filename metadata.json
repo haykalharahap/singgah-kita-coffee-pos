@@ -1,0 +1,7 @@
+{
+  "name": "Singgah Kita Coffee POS",
+  "description": "A sophisticated, high-performance Point of Sale system for Singgah Kita Coffee, featuring AI-powered menu recommendations and a seamless checkout experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
